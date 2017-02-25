@@ -1,0 +1,702 @@
+[
+  {
+    "BOOK_ID": 1,
+    "TITLE": "14TH DEADLY SIN",
+    "AUTHOR": "James Patterson",
+    "isRented": "FALSE",
+    "YEAR": 2013
+  },
+  {
+    "BOOK_ID": 2,
+    "TITLE": "A WANTED MAN",
+    "AUTHOR": "Lee Child",
+    "isRented": "FALSE",
+    "YEAR": 2012
+  },
+  {
+    "BOOK_ID": 3,
+    "TITLE": "ACT OF WAR",
+    "AUTHOR": "Brad Thor",
+    "isRented": "FALSE",
+    "YEAR": 2014
+  },
+  {
+    "BOOK_ID": 4,
+    "TITLE": "ALERT",
+    "AUTHOR": "James Patterson and?Michael Ledwidge",
+    "isRented": "FALSE",
+    "YEAR": 2013
+  },
+  {
+    "BOOK_ID": 5,
+    "TITLE": "ALEXANDER HAMILTON",
+    "AUTHOR": "Ron Chernow",
+    "isRented": "FALSE",
+    "YEAR": 2016
+  },
+  {
+    "BOOK_ID": 6,
+    "TITLE": "ALL THE LIGHT WE CANNOT SEE",
+    "AUTHOR": "Anthony Doerr",
+    "isRented": "FALSE",
+    "YEAR": 2016
+  },
+  {
+    "BOOK_ID": 7,
+    "TITLE": "BETWEEN THE WORLD AND ME",
+    "AUTHOR": "Ta-Nehisi Coates",
+    "isRented": "FALSE",
+    "YEAR": 2015
+  },
+  {
+    "BOOK_ID": 8,
+    "TITLE": "BIG LITTLE LIES",
+    "AUTHOR": "Liane Moriarty",
+    "isRented": "FALSE",
+    "YEAR": 2014
+  },
+  {
+    "BOOK_ID": 9,
+    "TITLE": "BINGE",
+    "AUTHOR": "Tyler Oakley",
+    "isRented": "FALSE",
+    "YEAR": 2015
+  },
+  {
+    "BOOK_ID": 10,
+    "TITLE": "CARNAL CURIOSITY",
+    "AUTHOR": "Stuart Woods",
+    "isRented": "FALSE",
+    "YEAR": 2014
+  },
+  {
+    "BOOK_ID": 11,
+    "TITLE": "CONCEALED IN DEATH",
+    "AUTHOR": "Nora Roberts",
+    "isRented": "FALSE",
+    "YEAR": 2014
+  },
+  {
+    "BOOK_ID": 12,
+    "TITLE": "DARK MONEY",
+    "AUTHOR": "Jane Mayer",
+    "isRented": "FALSE",
+    "YEAR": 2016
+  },
+  {
+    "BOOK_ID": 13,
+    "TITLE": "DARK PROMISES",
+    "AUTHOR": "Christine Feehan",
+    "isRented": "FALSE",
+    "YEAR": 2016
+  },
+  {
+    "BOOK_ID": 14,
+    "TITLE": "EDGE OF ETERNITY",
+    "AUTHOR": "Ken Follett",
+    "isRented": "FALSE",
+    "YEAR": 2014
+  },
+  {
+    "BOOK_ID": 15,
+    "TITLE": "FESTIVE IN DEATH",
+    "AUTHOR": "J. D. Robb",
+    "isRented": "FALSE",
+    "YEAR": 2014
+  },
+  {
+    "BOOK_ID": 16,
+    "TITLE": "FIFTY SHADES OF GREY",
+    "AUTHOR": "E. L. James",
+    "isRented": "FALSE",
+    "YEAR": 2014
+  },
+  {
+    "BOOK_ID": 17,
+    "TITLE": "FINDERS KEEPERS",
+    "AUTHOR": "Stephen King",
+    "isRented": "FALSE",
+    "YEAR": 2013
+  },
+  {
+    "BOOK_ID": 18,
+    "TITLE": "GATHERING PREY",
+    "AUTHOR": "John Sandford",
+    "isRented": "FALSE",
+    "YEAR": 2013
+  },
+  {
+    "BOOK_ID": 19,
+    "TITLE": "GO SET A WATCHMAN",
+    "AUTHOR": "Harper Lee",
+    "isRented": "FALSE",
+    "YEAR": 2013
+  },
+  {
+    "BOOK_ID": 20,
+    "TITLE": "GONE GIRL",
+    "AUTHOR": "Gillian Flynn",
+    "isRented": "FALSE",
+    "YEAR": 2014
+  },
+  {
+    "BOOK_ID": 21,
+    "TITLE": "GRAY MOUNTAIN",
+    "AUTHOR": "John Grisham",
+    "isRented": "FALSE",
+    "YEAR": 2014
+  },
+  {
+    "BOOK_ID": 22,
+    "TITLE": "GREY",
+    "AUTHOR": "E. L. James",
+    "isRented": "FALSE",
+    "YEAR": 2013
+  },
+  {
+    "BOOK_ID": 23,
+    "TITLE": "HUMANS OF NEW YORK: STORIES",
+    "AUTHOR": "Brandon Stanton",
+    "isRented": "FALSE",
+    "YEAR": 2015
+  },
+  {
+    "BOOK_ID": 24,
+    "TITLE": "INVISIBLE",
+    "AUTHOR": "James Patterson",
+    "isRented": "FALSE",
+    "YEAR": 2014
+  },
+  {
+    "BOOK_ID": 25,
+    "TITLE": "KILLING REAGAN",
+    "AUTHOR": "Bill O'Reilly and Martin Dugard",
+    "isRented": "FALSE",
+    "YEAR": 2015
+  },
+  {
+    "BOOK_ID": 26,
+    "TITLE": "ME BEFORE YOU",
+    "AUTHOR": "Jojo Moyes",
+    "isRented": "FALSE",
+    "YEAR": 2016
+  },
+  {
+    "BOOK_ID": 27,
+    "TITLE": "MEMORY MAN",
+    "AUTHOR": "David Baldacci",
+    "isRented": "FALSE",
+    "YEAR": 2013
+  },
+  {
+    "BOOK_ID": 28,
+    "TITLE": "MIRACLES FROM HEAVEN",
+    "AUTHOR": "Christy Wilson Beam",
+    "isRented": "FALSE",
+    "YEAR": 2016
+  },
+  {
+    "BOOK_ID": 29,
+    "TITLE": "MISSING YOU",
+    "AUTHOR": "Harlan Coben",
+    "isRented": "FALSE",
+    "YEAR": 2014
+  },
+  {
+    "BOOK_ID": 30,
+    "TITLE": "MR. MERCEDES",
+    "AUTHOR": "Stephen King",
+    "isRented": "FALSE",
+    "YEAR": 2014
+  },
+  {
+    "BOOK_ID": 31,
+    "TITLE": "NEITHER HERE NOR THERE",
+    "AUTHOR": "Bill Bryson",
+    "isRented": "FALSE",
+    "YEAR": 2016
+  },
+  {
+    "BOOK_ID": 32,
+    "TITLE": "NIGHT BROKEN",
+    "AUTHOR": "Patricia Briggs",
+    "isRented": "FALSE",
+    "YEAR": 2014
+  },
+  {
+    "BOOK_ID": 33,
+    "TITLE": "NOT MY FATHER'S SON",
+    "AUTHOR": "Alan Cumming",
+    "isRented": "FALSE",
+    "YEAR": 2015
+  },
+  {
+    "BOOK_ID": 34,
+    "TITLE": "NOTORIOUS NINETEEN",
+    "AUTHOR": "Janet Evanovich",
+    "isRented": "FALSE",
+    "YEAR": 2012
+  },
+  {
+    "BOOK_ID": 35,
+    "TITLE": "OFF THE GRID",
+    "AUTHOR": "C. J. Box",
+    "isRented": "FALSE",
+    "YEAR": 2016
+  },
+  {
+    "BOOK_ID": 36,
+    "TITLE": "OUTLANDER",
+    "AUTHOR": "Diana Gabaldon",
+    "isRented": "FALSE",
+    "YEAR": 2014
+  },
+  {
+    "BOOK_ID": 37,
+    "TITLE": "PERSONAL",
+    "AUTHOR": "Lee Child",
+    "isRented": "FALSE",
+    "YEAR": 2014
+  },
+  {
+    "BOOK_ID": 38,
+    "TITLE": "POINT BLANK",
+    "AUTHOR": "Fern Michaels",
+    "isRented": "FALSE",
+    "YEAR": 2015
+  },
+  {
+    "BOOK_ID": 39,
+    "TITLE": "PRIVATE L.A.",
+    "AUTHOR": "James Patterson and Mark Sullivan",
+    "isRented": "FALSE",
+    "YEAR": 2014
+  },
+  {
+    "BOOK_ID": 40,
+    "TITLE": "PRIVATE PARIS",
+    "AUTHOR": "James Patterson and Mark Sullivan",
+    "isRented": "FALSE",
+    "YEAR": 2016
+  },
+  {
+    "BOOK_ID": 41,
+    "TITLE": "PROPERTY OF A NOBLEWOMAN",
+    "AUTHOR": "Danielle Steel",
+    "isRented": "FALSE",
+    "YEAR": 2016
+  },
+  {
+    "BOOK_ID": 42,
+    "TITLE": "RADIANT ANGEL",
+    "AUTHOR": "Nelson DeMille",
+    "isRented": "FALSE",
+    "YEAR": 2013
+  },
+  {
+    "BOOK_ID": 43,
+    "TITLE": "REFLECTED IN YOU",
+    "AUTHOR": "Sylvia Day",
+    "isRented": "FALSE",
+    "YEAR": 2012
+  },
+  {
+    "BOOK_ID": 44,
+    "TITLE": "ROGUE LAWYER",
+    "AUTHOR": "John Grisham",
+    "isRented": "FALSE",
+    "YEAR": 2015
+  },
+  {
+    "BOOK_ID": 45,
+    "TITLE": "ROGUE LAWYER",
+    "AUTHOR": "John Grisham",
+    "isRented": "FALSE",
+    "YEAR": 2015
+  },
+  {
+    "BOOK_ID": 46,
+    "TITLE": "SEE ME",
+    "AUTHOR": "Nicholas Sparks",
+    "isRented": "FALSE",
+    "YEAR": 2015
+  },
+  {
+    "BOOK_ID": 47,
+    "TITLE": "SHADOW SPELL",
+    "AUTHOR": "Nora Roberts",
+    "isRented": "FALSE",
+    "YEAR": 2014
+  },
+  {
+    "BOOK_ID": 48,
+    "TITLE": "SKIN GAME",
+    "AUTHOR": "Jim Butcher",
+    "isRented": "FALSE",
+    "YEAR": 2014
+  },
+  {
+    "BOOK_ID": 49,
+    "TITLE": "SMARTER FASTER BETTER",
+    "AUTHOR": "Charles Duhigg",
+    "isRented": "FALSE",
+    "YEAR": 2016
+  },
+  {
+    "BOOK_ID": 50,
+    "TITLE": "SYCAMORE ROW",
+    "AUTHOR": "John Grisham",
+    "isRented": "FALSE",
+    "YEAR": 2014
+  },
+  {
+    "BOOK_ID": 51,
+    "TITLE": "THE BAZAAR OF BAD DREAMS",
+    "AUTHOR": "Stephen King",
+    "isRented": "FALSE",
+    "YEAR": 2015
+  },
+  {
+    "BOOK_ID": 52,
+    "TITLE": "THE BIG SHORT",
+    "AUTHOR": "Michael Lewis",
+    "isRented": "FALSE",
+    "YEAR": 2015
+  },
+  {
+    "BOOK_ID": 53,
+    "TITLE": "THE BLACK BOX",
+    "AUTHOR": "Michael Connelly",
+    "isRented": "FALSE",
+    "YEAR": 2012
+  },
+  {
+    "BOOK_ID": 54,
+    "TITLE": "THE BONE BED",
+    "AUTHOR": "Patricia Cornwell",
+    "isRented": "FALSE",
+    "YEAR": 2012
+  },
+  {
+    "BOOK_ID": 55,
+    "TITLE": "THE BOOK OF LIFE",
+    "AUTHOR": "Deborah Harkness",
+    "isRented": "FALSE",
+    "YEAR": 2014
+  },
+  {
+    "BOOK_ID": 56,
+    "TITLE": "THE CASUAL VACANCY",
+    "AUTHOR": "J.K. Rowling",
+    "isRented": "FALSE",
+    "YEAR": 2012
+  },
+  {
+    "BOOK_ID": 57,
+    "TITLE": "THE CHANCE",
+    "AUTHOR": "Robyn Carr",
+    "isRented": "FALSE",
+    "YEAR": 2014
+  },
+  {
+    "BOOK_ID": 58,
+    "TITLE": "THE COLLECTOR",
+    "AUTHOR": "Nora Roberts",
+    "isRented": "FALSE",
+    "YEAR": 2014
+  },
+  {
+    "BOOK_ID": 59,
+    "TITLE": "THE GIRL ON THE TRAIN",
+    "AUTHOR": "Paula Hawkins",
+    "isRented": "FALSE",
+    "YEAR": 2016
+  },
+  {
+    "BOOK_ID": 60,
+    "TITLE": "THE GOLDFINCH",
+    "AUTHOR": "Donna Tartt",
+    "isRented": "FALSE",
+    "YEAR": 2014
+  },
+  {
+    "BOOK_ID": 61,
+    "TITLE": "THE HELP",
+    "AUTHOR": "Kathryn Stockett",
+    "isRented": "FALSE",
+    "YEAR": 2013
+  },
+  {
+    "BOOK_ID": 62,
+    "TITLE": "THE IMMORTAL IRISHMAN",
+    "AUTHOR": "Timothy Egan",
+    "isRented": "FALSE",
+    "YEAR": 2016
+  },
+  {
+    "BOOK_ID": 63,
+    "TITLE": "THE INVENTION OF WINGS",
+    "AUTHOR": "Sue Monk Kidd",
+    "isRented": "FALSE",
+    "YEAR": 2014
+  },
+  {
+    "BOOK_ID": 64,
+    "TITLE": "THE KING",
+    "AUTHOR": "J. R. Ward",
+    "isRented": "FALSE",
+    "YEAR": 2014
+  },
+  {
+    "BOOK_ID": 65,
+    "TITLE": "THE LAST MAN",
+    "AUTHOR": "Vince Flynn",
+    "isRented": "FALSE",
+    "YEAR": 2012
+  },
+  {
+    "BOOK_ID": 66,
+    "TITLE": "THE LIAR",
+    "AUTHOR": "Nora Roberts",
+    "isRented": "FALSE",
+    "YEAR": 2013
+  },
+  {
+    "BOOK_ID": 67,
+    "TITLE": "THE LONG WAY HOME",
+    "AUTHOR": "Louise Penny",
+    "isRented": "FALSE",
+    "YEAR": 2014
+  },
+  {
+    "BOOK_ID": 68,
+    "TITLE": "THE MARTIAN",
+    "AUTHOR": "Andy Weir",
+    "isRented": "FALSE",
+    "YEAR": 2015
+  },
+  {
+    "BOOK_ID": 69,
+    "TITLE": "THE NIGHTINGALE",
+    "AUTHOR": "Kristin Hannah",
+    "isRented": "FALSE",
+    "YEAR": 2016
+  },
+  {
+    "BOOK_ID": 70,
+    "TITLE": "THE ONE AND ONLY",
+    "AUTHOR": "Emily Giffin",
+    "isRented": "FALSE",
+    "YEAR": 2014
+  },
+  {
+    "BOOK_ID": 71,
+    "TITLE": "THE PERFECT HOPE",
+    "AUTHOR": "Nora Roberts",
+    "isRented": "FALSE",
+    "YEAR": 2012
+  },
+  {
+    "BOOK_ID": 72,
+    "TITLE": "THE RACKETEER",
+    "AUTHOR": "John Grisham",
+    "isRented": "FALSE",
+    "YEAR": 2012
+  },
+  {
+    "BOOK_ID": 73,
+    "TITLE": "THE TARGET",
+    "AUTHOR": "David Baldacci",
+    "isRented": "FALSE",
+    "YEAR": 2014
+  },
+  {
+    "BOOK_ID": 74,
+    "TITLE": "THOMAS JEFFERSON AND THE TRIPOLI PIRATES",
+    "AUTHOR": "Brian Kilmeade and Don Yaeger",
+    "isRented": "FALSE",
+    "YEAR": 2015
+  },
+  {
+    "BOOK_ID": 75,
+    "TITLE": "THREAT VECTOR",
+    "AUTHOR": "Tom Clancy",
+    "isRented": "FALSE",
+    "YEAR": 2012
+  },
+  {
+    "BOOK_ID": 76,
+    "TITLE": "TOP SECRET TWENTY-ONE",
+    "AUTHOR": "Janet Evanovich",
+    "isRented": "FALSE",
+    "YEAR": 2014
+  },
+  {
+    "BOOK_ID": 77,
+    "TITLE": "UNLUCKY 13",
+    "AUTHOR": "James Patterson",
+    "isRented": "FALSE",
+    "YEAR": 2014
+  },
+  {
+    "BOOK_ID": 78,
+    "TITLE": "WHEN BREATH BECOMES AIR",
+    "AUTHOR": "Paul Kalanithi",
+    "isRented": "FALSE",
+    "YEAR": 2016
+  },
+  {
+    "BOOK_ID": 79,
+    "TITLE": "WINTER OF THE WORLD",
+    "AUTHOR": "Ken Follett",
+    "isRented": "FALSE",
+    "YEAR": 2012
+  },
+  {
+    "BOOK_ID": 80,
+    "TITLE": "WORDS OF RADIANCE",
+    "AUTHOR": "Brandon Sanderson",
+    "isRented": "FALSE",
+    "YEAR": 2014
+  },
+  {
+    "BOOK_ID": 81,
+    "TITLE": "WRITTEN IN MY OWN HEART'S BLOOD",
+    "AUTHOR": "Diana Gabaldon",
+    "isRented": "FALSE",
+    "YEAR": 2014
+  },
+  {
+    "BOOK_ID": 82,
+    "TITLE": "DEAD OR ALIVE",
+    "AUTHOR": "Tom Clancy?and?Grant Blackwood",
+    "isRented": "FALSE",
+    "YEAR": 2011
+  },
+  {
+    "BOOK_ID": 83,
+    "TITLE": "WHAT THE NIGHT KNOWS",
+    "AUTHOR": "Dean Koontz",
+    "isRented": "FALSE",
+    "YEAR": 2011
+  },
+  {
+    "BOOK_ID": 84,
+    "TITLE": "THE GIRL WHO KICKED THE HORNETS' NEST",
+    "AUTHOR": "Stieg Larsson",
+    "isRented": "FALSE",
+    "YEAR": 2011
+  },
+  {
+    "BOOK_ID": 85,
+    "TITLE": "THE INNER CIRCLE",
+    "AUTHOR": "Brad Meltzer",
+    "isRented": "FALSE",
+    "YEAR": 2011
+  },
+  {
+    "BOOK_ID": 86,
+    "TITLE": "ONE OF OUR THURSDAYS IS MISSING",
+    "AUTHOR": "Jasper Fforde",
+    "isRented": "FALSE",
+    "YEAR": 2011
+  },
+  {
+    "BOOK_ID": 87,
+    "TITLE": "SHADOWFEVER",
+    "AUTHOR": "Karen Marie Moning",
+    "isRented": "FALSE",
+    "YEAR": 2011
+  },
+  {
+    "BOOK_ID": 88,
+    "TITLE": "TICK TOCK",
+    "AUTHOR": "James Patterson",
+    "isRented": "FALSE",
+    "YEAR": 2011
+  },
+  {
+    "BOOK_ID": 89,
+    "TITLE": "ALONE",
+    "AUTHOR": "Lisa Gardner",
+    "isRented": "FALSE",
+    "YEAR": 2011
+  },
+  {
+    "BOOK_ID": 90,
+    "TITLE": "TREACHERY IN DEATH",
+    "AUTHOR": "J. D. Robb",
+    "isRented": "FALSE",
+    "YEAR": 2011
+  },
+  {
+    "BOOK_ID": 91,
+    "TITLE": "THE WISE MAN'S FEAR",
+    "AUTHOR": "Patrick Rothfuss",
+    "isRented": "FALSE",
+    "YEAR": 2011
+  },
+  {
+    "BOOK_ID": 92,
+    "TITLE": "WATER FOR ELEPHANTS",
+    "AUTHOR": "Sara Gruen",
+    "isRented": "FALSE",
+    "YEAR": 2011
+  },
+  {
+    "BOOK_ID": 93,
+    "TITLE": "THE LOST SYMBOL",
+    "AUTHOR": "Dan Brown",
+    "isRented": "FALSE",
+    "YEAR": 2010
+  },
+  {
+    "BOOK_ID": 94,
+    "TITLE": "THE HELP",
+    "AUTHOR": "Kathryn Stockett",
+    "isRented": "FALSE",
+    "YEAR": 2010
+  },
+  {
+    "BOOK_ID": 95,
+    "TITLE": "WORST CASE",
+    "AUTHOR": "James Patterson",
+    "isRented": "FALSE",
+    "YEAR": 2010
+  },
+  {
+    "BOOK_ID": 96,
+    "TITLE": "THE HELP",
+    "AUTHOR": "Kathryn Stockett",
+    "isRented": "FALSE",
+    "YEAR": 2010
+  },
+  {
+    "BOOK_ID": 97,
+    "TITLE": "FANTASY IN DEATH",
+    "AUTHOR": "J. D. Robb",
+    "isRented": "FALSE",
+    "YEAR": 2010
+  },
+  {
+    "BOOK_ID": 98,
+    "TITLE": "HOUSE RULES",
+    "AUTHOR": "Jodi Picoult",
+    "isRented": "FALSE",
+    "YEAR": 2010
+  },
+  {
+    "BOOK_ID": 99,
+    "TITLE": "THE HELP",
+    "AUTHOR": "Kathryn Stockett",
+    "isRented": "FALSE",
+    "YEAR": 2010
+  },
+  {
+    "BOOK_ID": 100,
+    "TITLE": "CAUGHT",
+    "AUTHOR": "Harlan Coben",
+    "isRented": "FALSE",
+    "YEAR": 2010
+  }
+]
